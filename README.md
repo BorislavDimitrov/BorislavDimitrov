@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Borislav</h1>
-# 💫 About Me:
+ 💫 About Me:
 A passionate .Net student from Bulgaria 
 
 ## 🌐 Socials:
