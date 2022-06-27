@@ -2,6 +2,7 @@
 # 💫 About Me:
 A passionate .Net student from Bulgaria 
 ## 🌐 Socials:
+
 [![Gmail] :email: www.bdimitorv@gmail.com 
 
 # 💻 Tech Stack:
