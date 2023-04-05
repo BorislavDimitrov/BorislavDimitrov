@@ -2,10 +2,11 @@
 
 # 💻 Tech Stack:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70" width="70" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/campusMVP/dotnetCoreLogoPack/master/ASP.NET%20Core/Bitmap%20RGB/Bitmap-MEDIUM_ASP.NET-Core-Logo_2colors_Square_Boxed_RGB.png" height="70" width="70" alt="dotnetcore logo"  />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="90" height="70"/>
+  <img src="https://raw.githubusercontent.com/campusMVP/dotnetCoreLogoPack/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="efcore" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" width="70" alt="html5 logo"  />
 </div>
 
 ###
