@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Borislav</h1>
 
-## 🌐 Socials:
-
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
